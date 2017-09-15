@@ -4,6 +4,8 @@
 
 Wordpress plugin to setup Google Adsense in AMP pages.
 
+![Google Adsense in AMP pages](/images/afa-image.png)
+
 ## Key features
 * Google adsense support on all AMP articles.
 * Support for Responsive and fixed size ads.
