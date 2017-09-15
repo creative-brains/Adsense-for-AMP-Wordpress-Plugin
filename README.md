@@ -31,22 +31,6 @@ Once that is done, to install the “Adsense for AMP Pro” plugin, follow these
 Once the plugin is activated, you can navigate to the settings page for “Adsense for AMP”.
 
 
-## Changelog
-
-#### 1.2.0
-* Added support for custom banner ads
-
-#### 1.0.0
-* initial release
-
-
-## Plugin Support
-support@adsenseforamp.com
-
-## Author
-[Adsense for AMP](https://adsenseforamp.com)
-
-
 ## Adsense for AMP PRO 
 [Adsense for AMP](https://adsenseforamp.com)
 
@@ -64,3 +48,9 @@ support@adsenseforamp.com
 ## PRO Demo
 
 [Click here to see plugin in action](https://adsenseforamp.com/demo/)
+
+## Plugin Support
+support@adsenseforamp.com
+
+## Author
+[Adsense for AMP](https://adsenseforamp.com)
