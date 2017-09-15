@@ -40,7 +40,7 @@ Once the plugin is activated, you can navigate to the settings page for “Adsen
 #### 1.2.0
 * Added support for custom banner ads
 
-#### 1.0.0 =
+#### 1.0.0
 * initial release
 
 
