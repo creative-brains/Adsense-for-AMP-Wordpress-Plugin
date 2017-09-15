@@ -1,14 +1,14 @@
-# Adsense for AMP
+# Adsense for AMP Wordpress Plugin
 
 ## Overview
 
-Wordpress plugin to setup Google Adsense on AMP pages.
+Wordpress plugin to setup Google Adsense in AMP pages.
 
 ## Demo
-https://adsenseforamp.com/demo/
+
 [Click here to see plugin in action](https://adsenseforamp.com/demo/)
 
-![Above the content ads in AMP](/image/above-the-content-responsive.png)
+![Above the content ads in AMP](/images/above-the-content-responsive.png)
 
 ## Key features
 * Google adsense support on all AMP articles.
