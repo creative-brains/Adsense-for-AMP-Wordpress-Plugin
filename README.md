@@ -57,6 +57,10 @@ support@adsenseforamp.com
 * Facebook page LIKE button in AMP
 * Social share buttons in AMP
 
+![Within the content ads in AMP](/images/within-the-content.png)
+
+![Social Share in AMP](/images/like-button.png)
+
 ## PRO Demo
 
 [Click here to see plugin in action](https://adsenseforamp.com/demo/)
