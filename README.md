@@ -8,8 +8,6 @@ Wordpress plugin to setup Google Adsense in AMP pages.
 
 [Click here to see plugin in action](https://adsenseforamp.com/demo/)
 
-![Above the content ads in AMP](/images/above-the-content-responsive.png)
-
 ## Key features
 * Google adsense support on all AMP articles.
 * Support for Responsive and fixed size ads.
@@ -19,6 +17,8 @@ Wordpress plugin to setup Google Adsense in AMP pages.
 * 'Above the Post Content' ad placement support.
 * 'Below the Post Content' ad placement support.
 * Fully validated with AMP validator.	
+
+![Above the content ads in AMP](/images/above-the-content-responsive.png)
 
 ## Installation
 
