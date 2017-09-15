@@ -4,10 +4,6 @@
 
 Wordpress plugin to setup Google Adsense in AMP pages.
 
-## Demo
-
-[Click here to see plugin in action](https://adsenseforamp.com/demo/)
-
 ## Key features
 * Google adsense support on all AMP articles.
 * Support for Responsive and fixed size ads.
@@ -49,3 +45,18 @@ support@adsenseforamp.com
 
 ## Author
 [Adsense for AMP](https://adsenseforamp.com)
+
+
+## Adsense for AMP PRO 
+[Adsense for AMP](https://adsenseforamp.com)
+
+## PRO Features
+* "Within the post content" ad settings
+* Google analytics in AMP
+* Recent posts in AMP
+* Facebook page LIKE button in AMP
+* Social share buttons in AMP
+
+## PRO Demo
+
+[Click here to see plugin in action](https://adsenseforamp.com/demo/)
