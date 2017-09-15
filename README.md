@@ -31,7 +31,9 @@ Once that is done, to install the “Adsense for AMP Pro” plugin, follow these
 Once the plugin is activated, you can navigate to the settings page for “Adsense for AMP”.
 
 
-#Adsense for AMP PRO 
+## Adsense for AMP PRO 
+
+Add more to AMP pages with [Adsense for AMP Pro](https://adsenseforamp.com) Wordpress plugin.
 
 ## PRO Features
 * "Within the post content" ad settings
