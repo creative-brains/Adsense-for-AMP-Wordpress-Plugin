@@ -4,7 +4,7 @@
 Plugin Name: Adsense for AMP
 Plugin URI: https://creativebrains.co.in
 Description: Setup Google Adsense on AMP pages
-Version: 1.2.0
+Version: 1.2.1
 Author: Creative Brains
 */
 

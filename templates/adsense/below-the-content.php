@@ -23,7 +23,7 @@
 		<p>Select the type of ad from the dropdown.</p>
 	</div>
 </div>
-<div class="below-the-content-google-adsense<?php if ($above_the_content_ad_type != "google-adsense") echo ' afa-hide'; ?>">	
+<div class="below-the-content-google-adsense<?php if ($below_the_content_ad_type != "google-adsense") echo ' afa-hide'; ?>">	
 	<div class="afa-form-label" scope"row">Publisher id:</div>
 	<div class="afa-form-input">
 		<input style="width:300px;" type="text" value="<?php echo esc_attr( get_option('afa-below-the-content-google-adsense-publisher-id') ); ?>" name="afa-below-the-content-google-adsense-publisher-id"/>
@@ -31,7 +31,7 @@
 		<p>Your publisher id (data-ad-client), for example, <i>ca-pub-1234567891234567</i>.</p>
 	</div>
 </div>
-<div class="below-the-content-google-adsense<?php if ($above_the_content_ad_type != "google-adsense") echo ' afa-hide'; ?>">	
+<div class="below-the-content-google-adsense<?php if ($below_the_content_ad_type != "google-adsense") echo ' afa-hide'; ?>">	
 	<div class="afa-form-label" scope"row">Ad unit id:</div>
 	<div class="afa-form-input">
 		<input style="width:300px;" type="text" value="<?php echo esc_attr( get_option('afa-below-the-content-google-adsense-unit-id') ); ?>" name="afa-below-the-content-google-adsense-unit-id"/>
@@ -39,7 +39,7 @@
 		<p>Your ad unit’s id (data-ad-slot), for example, <i>1234567890</i>. You can also enter adsense link ad unit id.</p>
 	</div>
 </div>
-<div class="below-the-content-google-adsense<?php if ($above_the_content_ad_type != "google-adsense") echo ' afa-hide'; ?>">	
+<div class="below-the-content-google-adsense<?php if ($below_the_content_ad_type != "google-adsense") echo ' afa-hide'; ?>">	
 	<div class="afa-form-label" scope"row">Ad size:</div>
 	<div class="afa-form-input">
 		<select name="afa-below-the-content-google-adsense-size">
@@ -51,7 +51,7 @@
 	</div>
 </div>
 
-<div class="below-the-content-custom-banner<?php if ($above_the_content_ad_type != "custom-banner") echo ' afa-hide'; ?>">
+<div class="below-the-content-custom-banner<?php if ($below_the_content_ad_type != "custom-banner") echo ' afa-hide'; ?>">
 	<div class="afa-form-label" scope"row">Custom banner ad image url:</div>
 	<div class="afa-form-input">
 		<input value="<?php echo esc_attr( get_option('afa-below-the-content-custom-banner-url') ); ?>" style="width:450px;" type="text" name="afa-below-the-content-custom-banner-url"/>
@@ -60,7 +60,7 @@
 	</div>
 </div>
 
-<div class="below-the-content-custom-banner<?php if ($above_the_content_ad_type != "custom-banner") echo ' afa-hide'; ?>">
+<div class="below-the-content-custom-banner<?php if ($below_the_content_ad_type != "custom-banner") echo ' afa-hide'; ?>">
 	<div class="afa-form-label" scope"row">Custom banner ad link:</div>
 	<div class="afa-form-input">
 		<input value="<?php echo esc_attr( get_option('afa-below-the-content-custom-banner-link') ); ?>" style="width:450px;" type="text" name="afa-below-the-content-custom-banner-link"/>

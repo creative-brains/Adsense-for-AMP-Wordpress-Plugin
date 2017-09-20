@@ -65,6 +65,9 @@ support@creativebrains.co.in
 
 == Changelog ==
 
+= 1.2.1 =
+* bug fixes
+
 = 1.2.0 =
 * Added support for custom banner ads
 
