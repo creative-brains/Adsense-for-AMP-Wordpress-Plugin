@@ -9,8 +9,8 @@
 		<tr>
 			<td>
     			<ul class="uaf_list">
-        			<li><a href="https://adsenseforamp.com/contact/" target="_blank">Contact Us</a></li>
-        			<li><a href="https://adsenseforamp.com/installation/" target="_blank">Installation</a></li>
+        			<li><a href="https://creativebrains.co.in/contact/" target="_blank">Contact Us</a></li>
+        			<li><a href="https://creativebrains.co.in/installation/" target="_blank">Installation</a></li>
     			</ul>
     		</td>
 		</tr>

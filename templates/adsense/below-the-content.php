@@ -8,7 +8,7 @@
 <div>
 	<h2><i>"Below the post content"</i> ad settings:</h2>
 	<p>The ad would appear at the end of the article. 
-		<strong><a target="_blank" href="https://adsenseforamp.com/google-adsense-ads-below-the-post-content-in-amp/">Click here to view demo.</a></strong>
+		<strong><a target="_blank" href="https://creativebrains.co.in/google-adsense-ads-below-the-post-content-in-amp/">Click here to view demo.</a></strong>
 	</p>
 </div>
 

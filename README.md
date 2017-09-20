@@ -35,7 +35,7 @@ Once the plugin is activated, you can navigate to the settings page for “Adsen
 
 ## Adsense for AMP PRO 
 
-Add more to AMP pages with [Adsense for AMP Pro](https://adsenseforamp.com) Wordpress plugin.
+Add more to AMP pages with [Adsense for AMP Pro](https://creativebrains.co.in) Wordpress plugin.
 
 ## PRO Features
 * "Within the post content" ad settings
@@ -50,10 +50,10 @@ Add more to AMP pages with [Adsense for AMP Pro](https://adsenseforamp.com) Word
 
 ## PRO Demo
 
-[Click here to see plugin in action](https://adsenseforamp.com/demo/)
+[Click here to see plugin in action](https://creativebrains.co.in/demo/)
 
 ## Plugin Support
-support@adsenseforamp.com
+support@creativebrains.co.in
 
 ## Author
-[Adsense for AMP](https://adsenseforamp.com)
+[Adsense for AMP](https://creativebrains.co.in)

@@ -8,7 +8,7 @@
 <div>
 	<h2><i>"Above the post content"</i> ad settings:</h2>
 	<p>The ad would appear above the content of the article below the title or featured image. 
-		<strong><a target="_blank" href="https://adsenseforamp.com/google-adsense-ads-above-the-post-content-in-amp/">Click here to view demo.</a></strong>
+		<strong><a target="_blank" href="https://creativebrains.co.in/google-adsense-ads-above-the-post-content-in-amp/">Click here to view demo.</a></strong>
 	</p>
 </div>
 

@@ -2,10 +2,10 @@
 
 /*
 Plugin Name: Adsense for AMP
-Plugin URI: https://adsenseforamp.com
+Plugin URI: https://creativebrains.co.in
 Description: Setup Google Adsense on AMP pages
 Version: 1.2.0
-Author: Adsense for AMP
+Author: Creative Brains
 */
 
 
